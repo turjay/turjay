@@ -23,9 +23,9 @@ In addition to my AI and software development projects, I have also created a we
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python (Intermediate to Advanced), C++ (Proficient for project implementation), Kotlin (Basic), C# (Basic)
-- **Tools & Frameworks:** TensorFlow, PyTorch, Django, Android Studio, AutoCAD
-- **AI & Data Science:** Deep learning, machine learning, data analysis
+- **Programming Languages:** Python (Intermediate to Advanced), C++ (Proficient for project implementation), Kotlin (Basic), C# (Basic), Arduino, Assembly
+- **Tools & Frameworks:** TensorFlow, PyTorch, Django, numpy, matplotlib, Pandas.
+- **Softwares:** AutoCAD, Photoshop, Premiere Pro, Dremviewer, VSCode, Atom, Unity
 
 ## 📈 GitHub Stats
 
