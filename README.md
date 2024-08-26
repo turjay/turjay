@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Turjay
+# Hi there! 👋 I'm Türkay
 
 ## 🚀 About Me
 
