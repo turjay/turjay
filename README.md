@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am currently pursuing a degree in Computer Engineering at Kocaeli University. My primary focus lies in artificial intelligence, machine learning, and software development. I am passionate about pushing the boundaries of technology, particularly in the realms of AI-driven automation and smart applications.
+I am currently pursuing my undergraduate degree in Computer Engineering at Kocaeli University. My primary focus is on embedded systems, machine learning and data science. I am a big advocate of free software and open source, all my repos, forks and contributions are made on Arch Linux.
 
 ## 💼 Projects
 
@@ -10,22 +10,22 @@ I am currently pursuing a degree in Computer Engineering at Kocaeli University. 
 I am developing **SDP-BOT**, a Python-based cryptocurrency trading bot that leverages advanced algorithms to optimize buying and selling decisions in real-time.
 
 ### STA-AI
-I'm working on **STA-AI**, a sophisticated software that converts architectural designs into structural engineering projects using artificial intelligence. This project is built on Python and C++, and it integrates deep learning models to automate the transformation process with high accuracy and efficiency.
+I'm working on **STA-AI**, a sophisticated software that converts architectural designs into structural engineering projects using artificial intelligence. This project is built on C, C++, R, SQL and Python, and it integrates deep learning models to automate the transformation process with high accuracy and efficiency.
 
 ### MetrAI
-**MetrAI** is another AI-driven project I'm working on, which analyzes CAD plans and automatically estimates project costs. This application uses machine learning models to deliver accurate and reliable cost predictions, and it is developed using Python and C++.
+**MetrAI** is another AI-driven project I'm working on, which analyzes CAD plans and automatically estimates project costs. This application uses machine learning models to deliver accurate and reliable cost predictions, and it is developed using C++ and Python.
 
 ### SoftDream Playwork
 Previously, I developed and published various applications under the name **SoftDream Playwork** using Cocos2Dx and Kotlin via Android Studio. However, due to some technical challenges, this project is currently on hold.
 
 ### Web Development
-In addition to my AI and software development projects, I have also created a website, **kurtaranproje.com**, where I apply my skills in Python and web technologies.
+There is also a website I built on behalf of a construction company we own, **kurtaranproje.com**.
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages:** Python (Intermediate to Advanced), C++ (Proficient for project implementation), Kotlin (Basic), C# (Basic), Arduino, Assembly
-- **Tools & Frameworks:** TensorFlow, PyTorch, Django, numpy, matplotlib, Pandas.
-- **Softwares:** AutoCAD, Photoshop, Premiere Pro, Dremviewer, VSCode, Atom, Unity
+- **Programming Languages:** Python (Intermediate to Advanced), C (Intermediate), C++ (Proficient for project implementation), Kotlin (Basic), C# (Basic), Arduino (Basic), Assembly (Basic)
+- **Tools & Frameworks:** TensorFlow, PyTorch, keras, Django, numpy, matplotlib, Pandas.
+- **Softwares:** AutoCAD, Photoshop, Premiere Pro, Dremviewer, VSCode, Atom, Unity, Blender.
 
 ## 📈 GitHub Stats
 
