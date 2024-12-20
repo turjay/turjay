@@ -2,34 +2,37 @@
 
 ## 🚀 About Me
 
-I am currently pursuing my undergraduate degree in Computer Engineering at Kocaeli University. My primary focus is on embedded systems, machine learning and data science. I am a big advocate of free software and open source, all my repos, forks and contributions are made on Arch Linux.
+I am currently pursuing my undergraduate degree in Computer Engineering at Kocaeli University. My primary focus is on embedded systems and image processing. I am also an active member of the KOU Racing FSAE Team, contributing to the development of Turkey's first autonomous Formula Student vehicle for international competitions. As a passionate advocate for free software and open-source, I carry out all my projects and contributions on Arch Linux.
 
 ## 💼 Projects
+### I do my projects under 3 formations:
+#### Studio Dunkey
+I focus on Android applications and graphic design under Studio Dunkey. Apps are published on Google Play, and I also provide graphic design services for organizations and individuals.
 
-### SDP-BOT
-I am developing **SDP-BOT**, a Python-based cryptocurrency trading bot that leverages advanced algorithms to optimize buying and selling decisions in real-time.
+- Google Play Apps: I am setting up and managing a Google Play Developer account and planning to publish up to 30 apps.
+- Ember Dungeons: I am adapting the popular FOSS dungeon game into Unity with C#.
+- TilesOS: I am working on modifying GodotOS to create a mobile operating system resembling Windows.
+- MLM Studio: I am developing a mobile version of LM Studio, featuring AI model selection and upload capabilities.
+- Note App: I am designing a note-taking application similar to Keep Notes.
+- Sudoku Chronicles: I am working on a story-driven game where players solve ancient ciphers presented as Sudoku puzzles to progress through the storyline.
+- KOU Racing App: I am building a mobile application for the KOU Racing team.
+- Websites:
+  - I developed kurtaranproje.com, a website for our family-owned construction company.
+  - I also built studiodunkey.com, a platform for showcasing my Android Studio projects.
 
-### STA-AI
-I'm working on **STA-AI**, a sophisticated software that converts architectural designs into structural engineering projects using artificial intelligence. This project is built on C, C++, R, SQL and Python, and it integrates deep learning models to automate the transformation process with high accuracy and efficiency.
+#### Saviortech Engineering
+This formation focuses on developing commercial software.
 
-### MetrAI
-**MetrAI** is another AI-driven project I'm working on, which analyzes CAD plans and automatically estimates project costs. This application uses machine learning models to deliver accurate and reliable cost predictions, and it is developed using C++ and Python.
+- MetrAI: I am working on an AI-driven software solution that analyzes CAD plans and estimates project costs. Built with Python and C++ for accuracy and reliability.
+- STA-AI: I am developing advanced AI software to transform DWG-format architectural plans into structural engineering projects. The system analyzes sections and generates static designs.
 
-### SoftDream Playwork
-Previously, I developed and published various applications under the name **SoftDream Playwork** using Cocos2Dx and Kotlin via Android Studio. However, due to some technical challenges, this project is currently on hold.
+#### SourceDream Project
+I focus on open-source and network-oriented projects under SourceDream Project.
 
-### Web Development
-There is also a website I built on behalf of a construction company we own, **kurtaranproje.com**.
-
-## 🛠️ Technologies & Tools
-
-- **Programming Languages:** Python (Intermediate to Advanced), C (Intermediate), C++ (Proficient for project implementation), Kotlin (Basic), C# (Basic), Arduino (Basic), Assembly (Basic)
-- **Tools & Frameworks:** TensorFlow, PyTorch, keras, Django, numpy, matplotlib, Pandas.
-- **Softwares:** AutoCAD, Photoshop, Premiere Pro, Dremviewer, VSCode, Atom, Unity, Blender.
-
-## 📈 GitHub Stats
-
-![Turjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=turjay&show_icons=true&theme=radical)
+- sdpOS: I am developing an Arch Linux-based ARM mobile distribution.
+- SDP Coin: I am collaborating with a group of computer engineers to create a new cryptocurrency.
+- SDP VPN: I am building a personal VPN service powered by OpenVPN.
+- SDP-BOT: I am working on a cryptocurrency trading bot that uses the BTCturk API and machine learning to automate buy-sell operations.
 
 ## 🔗 Let's Connect!
 
