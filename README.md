@@ -13,10 +13,9 @@ Studio Dunkey is dedicated to Android development, AI-powered applications, and 
 - System Software & OS Development → Experimenting with custom Linux-based operating systems for ARM devices, optimizing performance, and integrating new UI/UX concepts.
 - Embedded & Low-Level Programming → Working on performance-critical software solutions and hardware-integrated applications.
 
-## 🔗 Let's Connect!
+## 📬 Let's contact
 
-- [LinkedIn](https://www.linkedin.com/in/türkay-kurtaran-27b660324/)
-- [Instagram](https://www.instagram.com/turjayay/)
+[contact@studiodunkey.com](mailto:contact@studiodunkey.com)
 
 ## 🎸 Hobbies & Interests
 
