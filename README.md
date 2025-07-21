@@ -25,6 +25,7 @@ While Studio Dunkey doesn’t involve my embedded systems work, it reflects my i
 ## 🎸 Hobbies & Interests
 
 I’ve been involved with music for over 7 years, mainly as an electric guitar player. I also have hands-on experience with tools like Adobe Photoshop, Premiere Pro, and AutoCAD, which I’ve used for various design, editing, and technical drawing projects. I enjoy combining creativity with engineering in both my technical and artistic work.
+
 ---
 
 Feel free to connect with me on LinkedIn or check out my projects on GitHub. Let's collaborate and innovate together!
