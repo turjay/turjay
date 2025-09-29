@@ -1,30 +1,22 @@
 # Hi there! 👋 I'm Türkay
 
 ## 🚀 About Me
+I’m a Computer Engineering student at Kocaeli University, passionate about embedded systems, real-time software, and low-level development. Currently, I contribute to the KOU Racing Formula Student Team, developing software for our electric race car’s Vehicle Control Unit (VCU).
 
-I'm currently pursuing a Bachelor's degree in Computer Engineering at Kocaeli University. My primary focus is on embedded systems, particularly real-time and low-level software development. I'm also part of the Vehicle Control unit in the KOU Racing Formula Student team, where I’m responsible for writing and maintaining the VCU (Vehicle Control Unit) software for our electric race car.
+Alongside embedded systems, I enjoy working on Android apps and exploring game development with Unreal Engine 5.
 
-Aside from embedded systems, I also work on Android app development and Unreal Engine 5 game development as side interests.
-
-I’m a strong supporter of free and open-source software, and I develop all my personal projects on Arch Linux.
-
-## 💼 Studio Dunkey
-### I do my projects under a corp. named Studio Dunkey:
-I operate a creative and software-oriented collective called Studio Dunkey, which focuses on:
-
-- Android App Development → Creating and publishing mobile apps with a focus on usability, privacy, and zero telemetry.
-- Game Development → Building experimental and indie games using Unreal Engine 5.
-- Graphic Design & Publishing → Designing and distributing creative digital content, including UI/UX, branding, and visual assets.
-
+## 💼 What I Do
+- 🖥️ Embedded Systems: STM32, Zephyr RTOS, real-time data processing, CAN-FD communication
+- 📱 Mobile Apps: Android development focused on usability & privacy
+- 🎮 Games & Creativity: Indie games, design, and interactive digital experiences under my collective Studio Dunkey
+- 🐧 Open Source Enthusiast: All personal projects are built on Arch Linux
 While Studio Dunkey doesn’t involve my embedded systems work, it reflects my interests in software development, design, and digital publishing.
 
+## 🎸 Beyond Code
+When I’m not coding, you’ll probably find me playing electric guitar, experimenting with design tools like Photoshop, Premiere Pro, or AutoCAD, or just building something that combines creativity with engineering.
+
 ## 📬 Let's contact
-
 [contact@studiodunkey.com](mailto:contact@studiodunkey.com)
-
-## 🎸 Hobbies & Interests
-
-I’ve been involved with music for over 7 years, mainly as an electric guitar player. I also have hands-on experience with tools like Adobe Photoshop, Premiere Pro, and AutoCAD, which I’ve used for various design, editing, and technical drawing projects. I enjoy combining creativity with engineering in both my technical and artistic work.
 
 ---
 
